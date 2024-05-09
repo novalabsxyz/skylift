@@ -1,7 +1,13 @@
+/*
+  PARALLEL ARTIFACTS
+  https://ahprojects.com/parallel-artifacts
+  Adam Harvey 2022
+*/
 
+// {{TEMPLATE:HEADER
+// TEMPLATE:HEADER}}
 
-
-
+#include "display.h"
 
 byte bssid[6] = {};        // store next bssid
 uint8_t ncounter = 0;      // network counter
